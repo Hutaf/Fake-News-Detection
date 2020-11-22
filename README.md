@@ -5,6 +5,6 @@
 
 Contributers:
 
-Hutaf R. Aljohani
-Abdullah Almokainzi
+Hutaf R. Aljohani,
+Abdullah Almokainzi,
 Arwa Ashi
